@@ -1,5 +1,7 @@
 # Literature Notes
 
+How this fits in [the workflow](The%20Workflow.md)
+
 Note templates: [Literature Note](Literature%20Note.md), [Meeting Summary Note](Meeting%20Summary%20Note.md)
 
 - **Proposed File naming convention:** Author's last name - source title
