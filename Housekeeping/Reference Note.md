@@ -1,5 +1,7 @@
 # Reference Note
 
+How this fits in [the workflow](The%20Workflow.md)
+
 Note Templates: [Reference Note](Housekeeping/Reference%20Note.md), [Meeting Note](Meeting%20Note.md)
 
 - **Proposed file naming convention:** Author's last name - source title
