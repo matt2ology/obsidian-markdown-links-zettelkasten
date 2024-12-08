@@ -3,13 +3,11 @@
   "attachmentFolderPath": "attachments",
   "newFileFolderPath": "_inbox",
   "newFileLocation": "folder",
+  "newLinkFormat": "relative",
   "readableLineLength": true,
   "showLineNumber": true,
   "showUnsupportedFiles": false,
   "useMarkdownLinks": true,
-  "userIgnoreFilters": [
-    "Housekeeping/",
-    "Templates/"
-  ],
+  "userIgnoreFilters": [ "Housekeeping/", "Templates/" ],
   "vimMode": true
 }
