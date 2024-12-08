@@ -1,5 +1,7 @@
 # Daily Note
 
+How this fits in [the workflow](The%20Workflow.md)
+
 Note template: [Daily Note](Housekeeping/Daily%20Note.md)
 
 - **File naming convention:** `YYYY-MM-DD`
