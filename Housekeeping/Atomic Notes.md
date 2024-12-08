@@ -1,5 +1,7 @@
 # Atomic Notes
 
+How this fits in [the workflow](The%20Workflow.md)
+
 Note template: [Atomic Note](Atomic%20Note.md)
 
 - **Proposed File naming convention:**
