@@ -1,5 +1,7 @@
 # Published Works
 
+How this fits in [the workflow](The%20Workflow.md)
+
 - **Links to:** the atomic notes that contributed to the finished published work
 - **Does not link to:** daily notes or reference notes
 
