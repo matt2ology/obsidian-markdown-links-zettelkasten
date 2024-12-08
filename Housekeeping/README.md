@@ -1,5 +1,7 @@
 # README - Housekeeping
 
+See to: [The Workflow](The%20Workflow.md)
+
 By keeping well-structured and thoughtful housekeeping-notes, you ensure that your Zettelkasten system remains robust and evolves effectively over time.
 
 ## House Rules
