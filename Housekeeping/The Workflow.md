@@ -16,11 +16,11 @@ graph TD
     s6 -->|Link to other related published works| s6
 ```
 
-1. **[Reference Note](Templates/Reference%20Note.md):** media consumed and observations around you are highlighted and captured in this note
+1. **[Reference Note](Reference%20Note.md):** media consumed and observations around you are highlighted and captured in this note
    - Anything that resonates with you is captured by you typing verbatim the direct quotes, passages, soundbites, or excerpts
    - The process can be made easier via apps and services like [Instapaper](https://www.instapaper.com/), [Obsidian Web Clipper](https://obsidian.md/clipper), [Readwise's Reader app](https://readwise.io/read), and [Zotero](https://www.zotero.org/)
      - Most popular apps have Obsidian plug-ins that will then export the highlights made and initial notes into Markdown to be saved in your [Obsidian vault](https://help.obsidian.md/Getting+started/Create+a+vault)
-1. **[Literature Notes](Literature%20Notes.md):** these notes is where you, in your own words, further expand on your interpretation of the original concept, idea, or quote captured in your **_[Reference Note](Housekeeping/Reference%20Note.md)_**
+1. **[Literature Notes](Literature%20Notes.md):** these notes is where you, in your own words, further expand on your interpretation of the original concept, idea, or quote captured in your **_[Reference Note](Reference%20Note.md)_**
    - There may be times you'll have more highlights than you have elaborated in your **_[Literature Notes](Literature%20Notes.md)_**
    - This is fine for you are to summarize the main points, so to easily and quickly comprehend what the source material is about
 1. **[Atomic Notes](Atomic%20Notes.md):** These notes are meant to be "atomic", above the fold, short and concise encapsulations of concepts and ideas (i.e. extracted essential concepts and ideas) from one or more **_[Literature Notes](Literature%20Notes.md)_**
