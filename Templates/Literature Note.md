@@ -7,8 +7,7 @@ tags:
   - literature/podcast
   - literature/youtube
 draft: false
-author:
-reference-note: "[[01-Reference/Reference Note]]"
+author: 
 medium:
   - Article
   - Book
@@ -17,6 +16,8 @@ medium:
 ---
 
 ## Literature Note - {{title}}
+
+Link to reference note:
 
 ## Key Ideas
 
