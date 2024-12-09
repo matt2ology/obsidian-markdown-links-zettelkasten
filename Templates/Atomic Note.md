@@ -12,3 +12,7 @@ related-notes:
 ## Explain Like I'm 5 (ELI5): the Definition or Key Concept/Idea
 
 - Provide a detailed explanation of the idea - the key insight or concept.
+
+## Related Atomic Notes and Published Works
+
+- \[Atomic01\]\(../03-Atomic/Atomic01.md\)
