@@ -4,12 +4,13 @@ date: "{{date:YYYY-MM-DD}}"
 tags:
   - literature/meeting
 draft: false
-reference-note: "[[01-Reference/Reference Note]]"
 medium:
   - Meeting
 ---
 
 ## Literature Meeting Note - {{title}}
+
+Link to original meeting note:
 
 ## Main Takeaways/Summary of Meeting
 
