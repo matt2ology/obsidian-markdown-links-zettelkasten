@@ -4,8 +4,7 @@ date: "{{date:YYYY-MM-DD}}"
 tags:
   - literature
 draft: false
-author:
-source: "[[01-Reference/Reference Note]]"
+author: 
 medium:
   - Article
   - Book
@@ -14,6 +13,8 @@ medium:
 ---
 
 ## Reference Note - {{title}}
+
+Link to source:
 
 ## Key and Notable Highlights
 
