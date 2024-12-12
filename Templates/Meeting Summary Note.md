@@ -16,6 +16,6 @@ Link to original meeting note:
 
 - Idea 1: Key point or insight. \- \[\[01-Reference/Reference Note#^Link to a block in a note|See Reference\]\]
 
-## Related Literature Notes
+## Related Meeting Summaries
 
 - \[\[Link to related literature note\]\]
