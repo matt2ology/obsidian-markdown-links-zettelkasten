@@ -2,7 +2,7 @@
 
 How this fits in [the workflow](The%20Workflow.md)
 
-Note templates: [Literature Note](Literature%20Note.md), [Meeting Summary Note](Meeting%20Summary%20Note.md)
+Note templates: [Literature Note](../Templates/Literature%20Note.md), [Meeting Summary Note](Meeting%20Summary%20Note.md)
 
 - **Proposed File naming convention:** Author's last name - source title
 - **Links to:** other literature notes and to atomic notes

@@ -3,8 +3,7 @@ title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - atomic
-draft: false
-related-notes:
+draft: true
 ---
 
 ## Atomic Note - {{title}}
@@ -16,3 +15,4 @@ related-notes:
 ## Related Atomic Notes and Published Works
 
 - \[Atomic01\]\(../03-Atomic/Atomic01.md\)
+- \[Blog Post Topic\]\(../04-Publish/Blog%20Post%20Topic.md\)

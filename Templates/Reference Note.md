@@ -2,14 +2,12 @@
 title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
 tags:
-  - literature
-draft: false
+  - reference/article
+  - reference/book
+  - reference/podcast
+  - reference/youtube
+draft: true
 author: 
-medium:
-  - Article
-  - Book
-  - Podcasts
-  - YouTube
 ---
 
 ## Reference Note - {{title}}
@@ -23,4 +21,4 @@ Link to source:
 
 ## Related Literature Notes
 
-- \[\[Link to related literature note\]\]
+-  \[Literature Note\]\(../02-Literature/Literature%20Note.md\)
