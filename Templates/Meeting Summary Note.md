@@ -10,6 +10,10 @@ draft: true
 
 **Link to original meeting note:** \[Original Meeting Notes\]\(../02-Literature/Original%20Meeting%20Notes.md\)
 
+Attendees:
+
+- \[Colleague-Manager-Mentor\]\(../03-Atomic/Colleague-Manager-Mentor.md\)
+
 ## Main Takeaways/Summary of Meeting
 
 - Idea 1: Key point or insight.
