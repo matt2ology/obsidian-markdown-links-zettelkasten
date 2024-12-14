@@ -1,5 +1,4 @@
 ---
-title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - reference/meeting
@@ -8,7 +7,7 @@ medium:
   - Meeting
 ---
 
-## {{title}}
+# {{title}}
 
 {{date:dddd, MMMM D, YYYY, h:mm A}} - {{date:[Week] WW.E}}
 
