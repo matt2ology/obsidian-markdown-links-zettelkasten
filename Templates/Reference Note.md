@@ -7,7 +7,7 @@ tags:
   - reference/podcast
   - reference/youtube
 draft: true
-author: 
+author:
 ---
 
 ## Reference Note - {{title}}
@@ -21,4 +21,4 @@ Link to source:
 
 ## Related Literature Notes
 
--  \[Literature Note\]\(../02-Literature/Literature%20Note.md\)
+- \[Literature Note\]\(../02-Literature/Literature%20Note.md\)
